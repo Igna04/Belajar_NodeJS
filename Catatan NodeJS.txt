@@ -1,0 +1,21 @@
+pwd = print working directory
+NCL = Node command line
+node . = index.js
+REPL = Read Evaluate Print Loop
+	- global = untuk variable global. Bebas untuk menggunakan nya
+	- .break = dipakai Ketika kita sudah selesai mengetik code dan ingin berhenti. sama halnya seperti .exit
+	- .clear = untuk menghapus semua sesi yang telah kita buat.
+	- .load = mengambil isi dari sebuah file javascript
+	- vi (nama file) = membuat code editor dari terminal
+		- Esc kemudian wq(write quit) untuk save code yang telah dibuat dan menyimpannya.
+	- cat (nama file) = cat (concate) berguna untuk melihat file yang kita buat sebelumnya.
+	- rm (nama file) = untuk menghapus file code yang telah kita buat tadi
+	- .load (nama file) = untuk memakai code yang telah kita buat sebelumnya.
+	- touch (nama file)
+	- .save (nama file) = menyimpan code yang telah dibuat menjadi file code baru
+	- .editor = untuk mengetik code pada line code dengan multi-line code
+	- .help = untuk melihat panduan REPL nya 
+
+console.log(window) = Pengunaan javascipt pada html
+cd .. = naik/masuk ke directory yang diatasnya atau lebih tinggi
+alt + (line code) = shortcut untuk memindahkan satu line code keatas ataupun kebawah
